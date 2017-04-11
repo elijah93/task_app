@@ -31,7 +31,7 @@
              @endif
                </tbody>
            </table>
-
+{{Session::get('error')}}
         </div>
 
     </div>

@@ -30,6 +30,7 @@
 
             <div class="col-md-12">
                 <!--Content Area-->
+                @include('shared.noty')
 
                 @yield('killer')
             </div>
