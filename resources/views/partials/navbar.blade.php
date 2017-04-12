@@ -8,7 +8,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Logo</a>
+            <a class="navbar-brand" href="logo.png" src="logo.png">GET THINGS DONE</a>
+
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
